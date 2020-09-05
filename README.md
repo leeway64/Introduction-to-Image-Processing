@@ -23,6 +23,7 @@ Scaling an image down in size is useful for creating video thumbnails. Two metho
 
 ### Image scaling by removing pixels
 Image scaling, in this case, is accomplished by keeping the center pixel and removing the other pixels of a square of pixels.
+
 ![Pixel removal](https://github.com/leeway64/Introduction-to-Image-Processing/blob/master/Demonstration%20images/David%20Bowie%20Heroes%20(image%20scaled%20down%20by%20a%20factor%20of%203%2C%20pixel%20removal%20method).jpg)
 
 ### Image scaling by finding the average pixel value
