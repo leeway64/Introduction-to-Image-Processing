@@ -4,7 +4,7 @@ This project served as a primer into image processing. In this project, I learne
 All images are operated on in the grayscale domain. In other words, each pixel value ranges from 0 (black) to 255 (white).
 
 
-I would like to give credit to UW Bothell professor Dr. Tadesse Ghirmai for providing the specifications for this project.
+This project is from the course BEE 341. I would like to give credit to UW Bothell professor Dr. Tadesse Ghirmai for providing the specifications for this project.
 
 # Summary of MATLAB functions
 There are 5 .m MATLAB function files included in this project. These functions will be elaborated upon in this section.
