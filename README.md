@@ -31,7 +31,7 @@ A method much better suited for maintaining fidelity is to find the average pixe
 ![Average pixel value](https://github.com/leeway64/Introduction-to-Image-Processing/blob/master/Demonstration%20images/David%20Bowie%20Heroes%20(image%20scaled%20down%20by%20a%20factor%20of%203%2C%20average%20value%20method).jpg)
 
 ## Image flipping
-flip_image.m flips an input image left to right, top to bottom, or rotates it 90 degrees counterclockwise.
+flip_image.m flips an input image left to right, top to bottom, or rotates it 180 degrees counterclockwise.
 ![Left to right](https://github.com/leeway64/Introduction-to-Image-Processing/blob/master/Demonstration%20images/David%20Bowie%20Heroes%20((left-to-right%20flip)).jpg)
 ![Top to bot](https://github.com/leeway64/Introduction-to-Image-Processing/blob/master/Demonstration%20images/David%20Bowie%20Heroes%20((top-to-bottom%20flip)).jpg)
 ![Both](https://github.com/leeway64/Introduction-to-Image-Processing/blob/master/Demonstration%20images/David%20Bowie%20Heroes%20((90%20degree%20counterclockwise%20rotation)).jpg)
